@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/MrMcDuck/xnet/xaddr"
+	"github.com/smcduck/xnet/xaddr"
 	"github.com/perlin-network/noise/crypto/ed25519"
 	"github.com/perlin-network/noise/network"
 	"github.com/perlin-network/noise/network/discovery"
